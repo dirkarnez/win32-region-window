@@ -5,6 +5,8 @@ From [Windows-classic-samples/Samples/Win7Samples/begin/LearnWin32 at master · 
 ### Features
 - draggable 
     - https://github.com/dirkarnez/winapi-helloworld/tree/draggable
+    - [dirkarnez/win32-region-window](https://github.com/dirkarnez/win32-region-window)
+    - [dirkarnez/crosswindow-playground](https://github.com/dirkarnez/crosswindow-playground)
     - ### Reference
         - [关于WM_NCHITTEST消息 - Gang.Wang - 博客园](https://www.cnblogs.com/GnagWang/archive/2010/09/12/1824394.html)
         - [利用 WM_NCHITTEST 消息自定义窗口可拖动区域 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1566082)
